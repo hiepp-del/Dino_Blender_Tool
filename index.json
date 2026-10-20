@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "tool3d",
+      "name": "3D tool",
+      "tagline": "Cut mesh, separate pieces, offset, fill holes, bevel, UV presets",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Tool3D",
+      "license": [
+        "LicenseRef-AllRightsReserved"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "./tool3d-1.0.0.zip",
+      "archive_size": 112072,
+      "archive_hash": "sha256:369b80cbdf901fe99265f665612a9002b1e39f75ad3dece150fff917ad5f335b"
+    }
+  ]
+}
