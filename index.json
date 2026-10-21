@@ -4,6 +4,44 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "brickify",
+      "name": "Brickify",
+      "tagline": "Live castle-style brick walls from blockout meshes",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "Tool3D",
+      "license": [
+        "LicenseRef-AllRightsReserved"
+      ],
+      "blender_version_min": "5.2.0",
+      "tags": [
+        "Object"
+      ],
+      "archive_url": "./brickify-0.1.0.zip",
+      "archive_size": 67535,
+      "archive_hash": "sha256:c6b43531b7e02744daec881662614e12416fa5fbb5f920d2c3c3c80a900681bf"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "brickify",
+      "name": "Brickify",
+      "tagline": "Live castle-style brick walls from blockout meshes",
+      "version": "0.2.0",
+      "type": "add-on",
+      "maintainer": "Tool3D",
+      "license": [
+        "LicenseRef-AllRightsReserved"
+      ],
+      "blender_version_min": "5.2.0",
+      "tags": [
+        "Object"
+      ],
+      "archive_url": "./brickify-0.2.0.zip",
+      "archive_size": 71464,
+      "archive_hash": "sha256:ec02a280d77207456db6b9fe2e188daf1456e20004164855f9237d3b96acbe0c"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "tool3d",
       "name": "3D tool",
       "tagline": "Cut mesh, separate pieces, offset, fill holes, bevel, UV presets",
