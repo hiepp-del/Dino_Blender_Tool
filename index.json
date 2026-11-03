@@ -7,7 +7,7 @@
       "id": "brickify",
       "name": "Brickify",
       "tagline": "Live castle-style brick walls from blockout meshes",
-      "version": "0.2.4",
+      "version": "0.3.0",
       "type": "add-on",
       "maintainer": "Tool3D",
       "license": [
@@ -17,9 +17,9 @@
       "tags": [
         "Object"
       ],
-      "archive_url": "./brickify-0.2.4.zip",
-      "archive_size": 101174,
-      "archive_hash": "sha256:59cd100585c1177bea0d5f8d4de81002dacba5420b5716b332309af629a74075"
+      "archive_url": "./brickify-0.3.0.zip",
+      "archive_size": 104422,
+      "archive_hash": "sha256:f7c49398025b1b5f0951b6bc8f3f928f3776314634827e4b4fca57d20c3576ee"
     },
     {
       "schema_version": "1.0.0",
